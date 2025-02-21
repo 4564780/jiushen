@@ -1,0 +1,2 @@
+import{aE as r}from"./main.C8q1iJMV.js";const s=e=>r.request({url:"/api/member/user/kyc/zrid/init/h5",method:"POST",data:{...e}},{error:{action:"noMessage"},oss:{enable:!1}}),a=e=>r.request({url:"/api/member/user/kyc/zrid/checkresult",method:"post",data:{...e,domain:window.location.host}},{error:{action:"noMessage"}}),o=()=>r.request({url:"/api/member/user/kyc/state",method:"POST"},{oss:{enable:!1}});export{s as a,a as b,o as c};
+//# sourceMappingURL=kyc.nmkNmTDQ.js.map

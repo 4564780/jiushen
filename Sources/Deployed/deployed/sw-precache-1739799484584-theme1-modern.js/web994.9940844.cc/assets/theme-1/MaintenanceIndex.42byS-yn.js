@@ -1,0 +1,2 @@
+import{a,I as s,df as m,q as o}from"./main.C8q1iJMV.js";import{l as c,p as n}from"../vendors/vendor-@vue.DNlpgob2.js";const i="_maintenance_704rq_17",r="_img_704rq_23",_="_text_704rq_27",e={maintenance:i,img:r,text:_},[l]=o("pages-sport-maintenance"),d=c({name:l,setup(){const{t}=a();return()=>n("div",{class:e.maintenance},[n(s,{src:"/lobby_asset/common/common/home/img_whz_style_".concat(m.maintainIconStyleNo,".png"),class:e.img},null),n("div",{class:e.text},[t("lobby.game.maintain")])])}});export{d as M};
+//# sourceMappingURL=MaintenanceIndex.42byS-yn.js.map

@@ -1,0 +1,2 @@
+import{aK as i,I as e,U as a}from"./main.C8q1iJMV.js";import{l as t,p as o}from"../vendors/vendor-@vue.DNlpgob2.js";const m="_deviceIcon_g1gqr_18",c={deviceIcon:m},[r]=a("device-icon"),v=t({name:r,setup(){const{isIos:s,isMacos:n}=i();return s||n?()=>o(e,{class:c.deviceIcon,src:"/lobby_asset/common/web/home/comm_icon_xz-ios.svg"},null):()=>o(e,{class:c.deviceIcon,src:"/lobby_asset/common/web/home/comm_icon_xz-android.svg"},null)}}),l=v;export{l as D};
+//# sourceMappingURL=DeviceIconIndex.DA6Z-3Mk.js.map

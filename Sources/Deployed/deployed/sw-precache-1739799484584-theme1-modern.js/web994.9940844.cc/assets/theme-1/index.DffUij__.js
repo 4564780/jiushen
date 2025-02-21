@@ -1,0 +1,2 @@
+import{aE as t,br as s,bs as c}from"./main.C8q1iJMV.js";const d=async a=>{const e=await t.request({url:"/active/promote_details",method:"POST",data:{...a},headers:{deviceModel:s(),devicetype:c()}},{token:{type:"loginOnly"},cache:{useCache:!1},oss:{enable:!1}});return e==null?void 0:e.data.data},i=async a=>{const e=await t.request({url:"/active/request_details",method:"POST",data:{...a},headers:{deviceModel:s(),devicetype:c()}},{cache:{useCache:!1},oss:{enable:!1}});return e==null?void 0:e.data.data};export{i as a,d as b};
+//# sourceMappingURL=index.DffUij__.js.map

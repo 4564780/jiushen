@@ -1,0 +1,2389 @@
+<!DOCTYPE html>
+<html lang=en data-version="Mon Feb 17 2025 13:38:04 GMT+0000 (Coordinated Universal Time)" data-request-id=616531e0e6e68c3a02482e29443792e7 data-render="Mon Feb 17 2025 15:12:25 GMT+0000 (Coordinated Universal Time)" style=--skin__ID:1-14;--skin__accent_1:#04BE02;--skin__accent_1__toRgbString:4,190,2;--skin__accent_2:#EA4E3D;--skin__accent_2__toRgbString:234,78,61;--skin__accent_3:#FFAA09;--skin__accent_3__toRgbString:255,170,9;--skin__alt_border:#666666;--skin__alt_border__toRgbString:102,102,102;--skin__alt_lead:#333333;--skin__alt_lead__toRgbString:51,51,51;--skin__alt_neutral_1:#666666;--skin__alt_neutral_1__toRgbString:102,102,102;--skin__alt_neutral_2:#999999;--skin__alt_neutral_2__toRgbString:153,153,153;--skin__alt_primary:#866638;--skin__alt_primary__toRgbString:134,102,56;--skin__alt_text_primary:#FFFFFF;--skin__alt_text_primary__toRgbString:255,255,255;--skin__bg_1:#F8F8F8;--skin__bg_1__toRgbString:248,248,248;--skin__bg_2:#FFFFFF;--skin__bg_2__toRgbString:255,255,255;--skin__border:#E3E3E3;--skin__border__toRgbString:227,227,227;--skin__bs_topnav_bg:#FFFFFF;--skin__bs_topnav_bg__toRgbString:255,255,255;--skin__bs_zc_an1:#F8F8F8;--skin__bs_zc_an1__toRgbString:248,248,248;--skin__bs_zc_bg:#FFFFFF;--skin__bs_zc_bg__toRgbString:255,255,255;--skin__btmnav_active:#866638;--skin__btmnav_active__toRgbString:134,102,56;--skin__btmnav_def:#666666;--skin__btmnav_def__toRgbString:102,102,102;--skin__ddt_bg:#E3E3E3;--skin__ddt_bg__toRgbString:227,227,227;--skin__ddt_icon:#F1F1F1;--skin__ddt_icon__toRgbString:241,241,241;--skin__filter_active:#866638;--skin__filter_active__toRgbString:134,102,56;--skin__filter_bg:#F8F8F8;--skin__filter_bg__toRgbString:248,248,248;--skin__home_bg:#FFFFFF;--skin__home_bg__toRgbString:255,255,255;--skin__icon_1:#866638;--skin__icon_1__toRgbString:134,102,56;--skin__icon_tg_q:#B4B6BF;--skin__icon_tg_q__toRgbString:180,182,191;--skin__icon_tg_z:#909199;--skin__icon_tg_z__toRgbString:144,145,153;--skin__jackpot_text:#999999;--skin__jackpot_text__toRgbString:153,153,153;--skin__jdd_vip_bjc:#866638;--skin__jdd_vip_bjc__toRgbString:134,102,56;--skin__kb_bg:#E3E3E3;--skin__kb_bg__toRgbString:227,227,227;--skin__label_accent3:#FFAA09;--skin__label_accent3__toRgbString:255,170,9;--skin__labeltext_accent3:#FFFFFF;--skin__labeltext_accent3__toRgbString:255,255,255;--skin__lead:#333333;--skin__lead__toRgbString:51,51,51;--skin__leftnav_active:#FFFFFF;--skin__leftnav_active__toRgbString:255,255,255;--skin__leftnav_def:#999999;--skin__leftnav_def__toRgbString:153,153,153;--skin__neutral_1:#666666;--skin__neutral_1__toRgbString:102,102,102;--skin__neutral_2:#999999;--skin__neutral_2__toRgbString:153,153,153;--skin__neutral_3:#CCCCCC;--skin__neutral_3__toRgbString:204,204,204;--skin__primary:#866638;--skin__primary__toRgbString:134,102,56;--skin__profile_icon_1:#FFAA09;--skin__profile_icon_1__toRgbString:255,170,9;--skin__profile_icon_2:#04BE02;--skin__profile_icon_2__toRgbString:4,190,2;--skin__profile_icon_3:#866638;--skin__profile_icon_3__toRgbString:134,102,56;--skin__profile_icon_4:#EA4E3D;--skin__profile_icon_4__toRgbString:234,78,61;--skin__profile_toptext:#FFFFFF;--skin__profile_toptext__toRgbString:255,255,255;--skin__search_icon:#866638;--skin__search_icon__toRgbString:134,102,56;--skin__table_bg:#FFFFFF;--skin__table_bg__toRgbString:255,255,255;--skin__text_accent3:#FFFFFF;--skin__text_accent3__toRgbString:255,255,255;--skin__text_primary:#FFFFFF;--skin__text_primary__toRgbString:255,255,255;--skin__web_bs_yj_bg:#F8F8F8;--skin__web_bs_yj_bg__toRgbString:248,248,248;--skin__web_bs_zc_an2:#FFFFFF;--skin__web_bs_zc_an2__toRgbString:255,255,255;--skin__web_btmnav_db:#FFFFFF;--skin__web_btmnav_db__toRgbString:255,255,255;--skin__web_filter_gou:#FFFFFF;--skin__web_filter_gou__toRgbString:255,255,255;--skin__web_left_bg_q:#FBF9F8;--skin__web_left_bg_q__toRgbString:251,249,248;--skin__web_left_bg_shadow:#BEA8851F;--skin__web_left_bg_shadow_active:#BEA8851F;--skin__web_left_bg_z:#F9F7F5;--skin__web_left_bg_z__toRgbString:249,247,245;--skin__web_load_zz:#E3E3E399;--skin__web_plat_line:#FFFFFF;--skin__web_plat_line__toRgbString:255,255,255;--skin__web_topbg_1:#A78244;--skin__web_topbg_1__toRgbString:167,130,68;--skin__web_topbg_3:#866638;--skin__web_topbg_3__toRgbString:134,102,56>
+    <head>
+        <script type=module crossorigin="" src=/assets/theme-1/polyfills.B4ZQE_qm.js></script>
+        <meta charset=UTF-8>
+        <link rel=preconnect href=https://cdntoos.pappyws0522yy7b.cc/ crossorigin="">
+        <link rel=dns-prefetch href=https://cdntoos.pappyws0522yy7b.cc/>
+        <link rel=preconnect href=https://pubsgppp.c1oudfront.com/ crossorigin="">
+        <link rel=dns-prefetch href=https://pubsgppp.c1oudfront.com/>
+        <link rel="shortcut icon" href=https://cdntoos.pappyws0522yy7b.cc/cocos/lg/h5icon.ico>
+        <link sizes=32x32 rel=icon href=https://cdntoos.pappyws0522yy7b.cc/siteadmin/upload/img/1793292533112676354.png data-global-meta="">
+        <link rel=apple-touch-icon href=https://cdntoos.pappyws0522yy7b.cc/siteadmin/upload/img/1793292533112676354.png data-global-meta="">
+        <link sizes=192x192 rel=apple-touch-icon href=https://cdntoos.pappyws0522yy7b.cc/siteadmin/upload/img/1793292533112676354.png data-global-meta="">
+        <link rel=apple-touch-icon-precomposed href=https://cdntoos.pappyws0522yy7b.cc/siteadmin/upload/img/1793292533112676354.png data-global-meta="">
+        <script defer=defer src="/libs/monitor/index.js?ver=1.0.1"></script>
+        <meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no">
+        <meta property=twitter:card content=summary_large_image>
+        <meta name=mobile-web-app-capable content=yes>
+        <meta name=apple-mobile-web-app-capable content=yes>
+        <meta name=apple-mobile-web-app-status-bar-style content=black>
+        <meta name=google content=notranslate>
+        <link rel=icon href=data:image/ico;base64,aWNv>
+        <link rel=manifest id=pwa-manifest>
+        <style>
+            :root {
+                --lobby__max-width: 100%
+            }
+
+            *,::after,::before {
+                box-sizing: inherit;
+                padding: 0;
+                margin: 0
+            }
+
+            h1,h2,h3,h4,h5,h6 {
+                font-weight: 400
+            }
+
+            ul {
+                list-style: none
+            }
+
+            img,video {
+                height: auto;
+                max-width: 100%
+            }
+
+            iframe {
+                border: 0
+            }
+
+            table {
+                border-collapse: collapse;
+                border-spacing: 0
+            }
+
+            html {
+                width: 100%;
+                height: 100%;
+                box-sizing: border-box;
+                -webkit-tap-highlight-color: transparent
+            }
+
+            html[data-device=mobile] {
+                font-size: calc(100vw / (750 / 100))
+            }
+
+            html[data-ui-contain='1'] {
+                background: var(--skin__border);
+                font-size: calc(var(--lobby__max-width) / (750 / 100))
+            }
+
+            html[data-ui-contain='0'] {
+                --lobby__max-width: 100%
+            }
+        </style>
+        <script defer=defer>
+            !function() {
+                for (var e = JSON.stringify({
+                    accessRestrictedContentMerge: '<p style="text-align: center;">&nbsp;</p>\n<p style="text-align: center;"><span style="color: #060600;"><strong><span style="font-size: 32px;"><img style="max-width: 100%;" src="https://f3mueh-1085-ppp.oss-accelerate.aliyuncs.com/cocos/lg/access-restricted-image.png"></span></strong></span></p>\n<p style="text-align: center;"><span style="color: #060600;"><strong><span style="font-size: 32px;">访问受限</span></strong></span></p>\r\n <p style="text-align: center;"><span style="color: #060600;"><strong><span style="font-size: 32px;">Access Restricted</span></strong></span></p>\r\n <p style="text-align: center;">&nbsp;</p>\r\n <p style="text-align: center;">&nbsp;</p>\r\n <p style="line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size: 18px; color: #060600;">IP所在地区不在我们的服务范围，请更换其他国家IP，若给您带来的不便，敬请谅解。</span></p>\r\n <p style="line-height: 1.6;"><span style="font-size: 18px; color: #060600;">&nbsp; &nbsp; &nbsp; Your IP address is out of our service range, please change to an IP of a different country. We sincerely apologize for the inconvenience caused</span></p>\r\n <p>&nbsp;</p>',
+                    antiSwitch: "0",
+                    appIconBigPath: "https://f3mueh-1085-ppp.oss-accelerate.aliyuncs.com/cocos/lg/appIconBig.png",
+                    appIconSkeletonPath: "",
+                    appIconSmallPath: "https://f3mueh-1085-ppp.oss-accelerate.aliyuncs.com/cocos/lg/appIconSmall.png",
+                    commonOssBucket: null,
+                    commonOssDomain: null,
+                    currencyCode: "CNY",
+                    "dec2NyaXB0af7fd543-430e-4d5d-9849-d50d11f92002ion": "",
+                    humanVerify: -1,
+                    keyword: "",
+                    languageCode: "zh",
+                    loadingImg: "https://f3mueh-1085-ppp.oss-accelerate.aliyuncs.com/cocos/lg/h5-load.png",
+                    ossName: "f3mueh-1085-ppp",
+                    ossType: "oss-accelerate.aliyuncs.com",
+                    shortcutSwitch: 1,
+                    siteAppIcon: "https://f3mueh-1085-ppp.oss-accelerate.aliyuncs.com/cocos/lg/h5icon.ico",
+                    siteCode: "1085",
+                    siteName: "99娱乐城",
+                    skinType: 14,
+                    statisticalCode: "",
+                    title: "99娱乐城",
+                    type: 1,
+                    CREATED_TIME: 1739805144986,
+                    SPLASH_NODE_CLASSNAME: "skeleton-screen-main",
+                    OSS_MODE: !0,
+                    INJECT_DATA: {
+                        apiGetOptimizationSiteConfigV2: {
+                            data: {
+                                data: {
+                                    layoutDesign: {
+                                        advanceSetting: {
+                                            day: {
+                                                backgroundSetting: {
+                                                    basePlateColor: "",
+                                                    bgColor: "",
+                                                    btmImg: "",
+                                                    cutOffset: 210,
+                                                    gameMenuBgImg: "",
+                                                    gameMenuBgImg2: "",
+                                                    gameMenuSelectBgImg: "",
+                                                    gameMenuSelectBgImg2: ""
+                                                },
+                                                btnFontColorSetting: {
+                                                    generalButtonColor: [{
+                                                        key: "ordinaryColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "secondaryColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "stayInputColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "weakerColor",
+                                                        value: ""
+                                                    }],
+                                                    importantButtonColor: [{
+                                                        key: "generalColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "generalCentreColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "importantColor",
+                                                        value: ""
+                                                    }],
+                                                    otherColor: [{
+                                                        key: "leftUnColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "leftOnColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "numberColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "bottomUnColor",
+                                                        value: ""
+                                                    }]
+                                                },
+                                                iconSetting: {
+                                                    gameSelectedImg: [{
+                                                        key: "hotIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "chessCardIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "personIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "fishingIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "electronicIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "lotteryIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "sportsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "athleticsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "clubIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "friendIcon",
+                                                        value: ""
+                                                    }],
+                                                    gameShowImg: [{
+                                                        key: "hotIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "chessCardIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "personIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "fishingIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "electronicIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "lotteryIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "sportsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "athleticsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "clubIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "friendIcon",
+                                                        value: ""
+                                                    }],
+                                                    homeBtmImg: [{
+                                                        key: "rebateOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rebateUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "taskOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "taskUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "homeOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "homeUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "activityOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "activityUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "mineOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "mineUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "loginIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "registerIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rechargeIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "yueBaoIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "promoteIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "customerIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "vipIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "appDownloadIcon",
+                                                        value: ""
+                                                    }],
+                                                    homeMidImg: [{
+                                                        key: "yueBaoIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "vipIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "promoteIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "customerIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rechargeIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "activityIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "taskIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rebateIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "feedbackIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "securityIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "settingIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "reportIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "languageIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "awardIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "accountDetailsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "bettingIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawManageIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "checkIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "networkIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "appDownloadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "moreIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "receiveRecordIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "providentFundIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "blindBoxIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "selfRestraintIcon",
+                                                        value: ""
+                                                    }],
+                                                    homeTopImg: [{
+                                                        key: "searchIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "musicIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "messageUnreadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "messageReadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "logoutIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "horseLightIcon",
+                                                        value: ""
+                                                    }],
+                                                    ownerBtmImg: [{
+                                                        key: "promoteIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "networkIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "accountDetailsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "securityIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "musicIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "languageIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "feedbackIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "aboutUsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "versionIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "securityLogoutIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "commonProblemIcon",
+                                                        value: ""
+                                                    }],
+                                                    ownerMidImg: [{
+                                                        key: "accountIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "betIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "personalIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawIcon",
+                                                        value: ""
+                                                    }],
+                                                    ownerTopImg: [{
+                                                        key: "messageUnreadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "messageReadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "walletIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rechargeIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "yueBaoIcon",
+                                                        value: ""
+                                                    }]
+                                                }
+                                            },
+                                            night: {
+                                                backgroundSetting: {
+                                                    basePlateColor: "",
+                                                    bgColor: "",
+                                                    btmImg: "",
+                                                    cutOffset: 210,
+                                                    gameMenuBgImg: "",
+                                                    gameMenuBgImg2: "",
+                                                    gameMenuSelectBgImg: "",
+                                                    gameMenuSelectBgImg2: ""
+                                                },
+                                                btnFontColorSetting: {
+                                                    generalButtonColor: [{
+                                                        key: "ordinaryColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "secondaryColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "stayInputColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "weakerColor",
+                                                        value: ""
+                                                    }],
+                                                    importantButtonColor: [{
+                                                        key: "generalColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "generalCentreColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "importantColor",
+                                                        value: ""
+                                                    }],
+                                                    otherColor: [{
+                                                        key: "leftUnColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "leftOnColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "numberColor",
+                                                        value: ""
+                                                    }, {
+                                                        key: "bottomUnColor",
+                                                        value: ""
+                                                    }]
+                                                },
+                                                iconSetting: {
+                                                    gameSelectedImg: [{
+                                                        key: "hotIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "chessCardIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "personIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "fishingIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "electronicIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "lotteryIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "sportsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "athleticsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "clubIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "friendIcon",
+                                                        value: ""
+                                                    }],
+                                                    gameShowImg: [{
+                                                        key: "hotIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "chessCardIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "personIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "fishingIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "electronicIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "lotteryIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "sportsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "athleticsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "clubIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "friendIcon",
+                                                        value: ""
+                                                    }],
+                                                    homeBtmImg: [{
+                                                        key: "rebateOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rebateUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "taskOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "taskUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "homeOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "homeUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "activityOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "activityUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "mineOnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "mineUnIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "loginIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "registerIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rechargeIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "yueBaoIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "promoteIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "customerIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "vipIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "appDownloadIcon",
+                                                        value: ""
+                                                    }],
+                                                    homeMidImg: [{
+                                                        key: "yueBaoIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "vipIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "promoteIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "customerIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rechargeIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "activityIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "taskIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rebateIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "feedbackIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "securityIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "settingIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "reportIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "languageIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "awardIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "accountDetailsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "bettingIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawManageIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "checkIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "networkIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "appDownloadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "moreIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "receiveRecordIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "providentFundIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "blindBoxIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "selfRestraintIcon",
+                                                        value: ""
+                                                    }],
+                                                    homeTopImg: [{
+                                                        key: "searchIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "musicIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "messageUnreadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "messageReadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "logoutIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "horseLightIcon",
+                                                        value: ""
+                                                    }],
+                                                    ownerBtmImg: [{
+                                                        key: "promoteIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "networkIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "accountDetailsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "securityIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "musicIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "languageIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "feedbackIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "aboutUsIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "versionIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "securityLogoutIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "commonProblemIcon",
+                                                        value: ""
+                                                    }],
+                                                    ownerMidImg: [{
+                                                        key: "accountIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "betIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "personalIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawIcon",
+                                                        value: ""
+                                                    }],
+                                                    ownerTopImg: [{
+                                                        key: "messageUnreadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "messageReadIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "walletIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "withdrawIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "rechargeIcon",
+                                                        value: ""
+                                                    }, {
+                                                        key: "yueBaoIcon",
+                                                        value: ""
+                                                    }]
+                                                }
+                                            }
+                                        },
+                                        backgroundShading: {
+                                            type: 3
+                                        },
+                                        banner: 3,
+                                        baseConfig: {
+                                            appMyPage: "3",
+                                            desktopShortcut: "1",
+                                            test: "1"
+                                        },
+                                        btmItems: ["home", "discount", "login", "customer", "mine"],
+                                        commonConfig: {
+                                            ageLimit: "18",
+                                            americaSportLiveFlag: "0",
+                                            commissionBubble: "1",
+                                            displayLiveFlag: "0",
+                                            footerStyle: "4",
+                                            hallReturnType: "1",
+                                            loadingType: "2",
+                                            noWalletTipCny: "1",
+                                            noWalletTipInr: "0",
+                                            olympicSportLiveFlag: "0",
+                                            registerLogin: "3",
+                                            registerLoginDisplay: "0",
+                                            sportFlag: "0",
+                                            sportLiveFlag: "0",
+                                            test: "1",
+                                            turnPageType: "2",
+                                            windowCss: "2"
+                                        },
+                                        gameIcon: 2,
+                                        hgAgeConfig: {
+                                            content: "",
+                                            isOpen: 0
+                                        },
+                                        iconColor: 1,
+                                        imgPath: "/siteadmin/layoutDesign/",
+                                        layouts: '["banner","top","icon"]',
+                                        loginBtmItems: ["home", "discount", "recharge", "withdraw", "mine"],
+                                        loginMidItems: ["promote", "download", "customer"],
+                                        loginMidItemsMore: ["rebate", "vip", "recharge", "withdraw", "yueBao", "activity", "task", "bettingRecord", "feedback", "security", "setting", "accountDetails", "personalStatement", "award", "withdrawalManagement", "language", "audit", "facebook", "google", "line", "providentFund", "receiveRecord", "blindBox", "home", "mine"],
+                                        loginSlogan: '<p class="p1"><span style="font-size: 16px;"><span class="s1">🎁</span><span class="s2">新人</span>5<span class="s2">重礼</span><span class="s2">豪送</span><span style="color: #e03e2d;">19999<span class="s2">元</span></span><span class="s1">🎁<br></span><span class="s1">👥</span>代理合营盈利分成高达<span class="s3"><span style="color: #e03e2d;">55%</span></span><span class="s1">👥<br></span><span class="s1">🧧</span>每月<span style="color: #e03e2d;"><span class="s3">10</span>号</span>亿万现金回馈<span class="s1">🧧<br></span>💰钱包每笔存款送<span class="s1"><span style="color: #e03e2d;">3%</span></span>钱包提现送<span class="s1" style="color: #e03e2d;">1%</span>💰</span></p>',
+                                        midItems: ["promote", "download", "customer"],
+                                        midItemsMore: ["rebate", "vip", "recharge", "withdraw", "yueBao", "activity", "task", "bettingRecord", "feedback", "security", "setting", "accountDetails", "personalStatement", "award", "withdrawalManagement", "language", "audit", "facebook", "google", "line", "providentFund", "receiveRecord", "blindBox", "home", "mine"],
+                                        platformIcon: 2,
+                                        skeletonStyle: {
+                                            img: "",
+                                            type: 3
+                                        },
+                                        topLayout: 0
+                                    },
+                                    brandLogoUse: {
+                                        iosBootInstallation: {
+                                            shortcutsLogo: "https://f3mueh-1085-ppp.oss-accelerate.aliyuncs.com/siteadmin/upload/img/1793292533112676354.png"
+                                        },
+                                        appIconBigPath: "https://f3mueh-1085-ppp.oss-accelerate.aliyuncs.com/siteadmin/upload/img/1793292533112676354.png"
+                                    }
+                                },
+                                code: 1
+                            }
+                        },
+                        apiGetSystemStatus: {
+                            data: {
+                                data: {
+                                    homeGetSysInfo: {
+                                        accountRegister: {
+                                            cpf: 0,
+                                            currency: 0,
+                                            email: 0,
+                                            inviteCode: 0,
+                                            inviteCodeUnchangeable: 0,
+                                            passwordConfirm: 1,
+                                            phone: 0,
+                                            quickEntry: {
+                                                loginQuickEntryCustomer: 1,
+                                                loginQuickEntryFree: 1,
+                                                loginQuickEntryInstant: 1,
+                                                registerQuickEntryCustomer: 1,
+                                                registerQuickEntryFree: 1,
+                                                registerQuickEntryInstant: 1
+                                            },
+                                            realName: 1
+                                        },
+                                        agentDisplayAgentSetting: 1,
+                                        agentDisplayCreateAccount: 1,
+                                        agentDisplayEntrance: 1,
+                                        agentDisplayParent: 1,
+                                        agentDisplayTutorial: 1,
+                                        auto_visitor_login: 0,
+                                        auto_visitor_login_h5: 0,
+                                        auto_visitor_login_web: 0,
+                                        clubFriendState: 1,
+                                        clubSecurityVerify: {
+                                            clubSecurityEmail: 0,
+                                            clubSecurityGoogle: 1,
+                                            clubSecurityPhone: 0
+                                        },
+                                        directFinancial: 1,
+                                        directNewAccount: 1,
+                                        directOrder: 1,
+                                        directReport: 1,
+                                        directTake: 1,
+                                        emailRequired: 0,
+                                        emailSwitch: 0,
+                                        enableModifyPhone: 1,
+                                        enable_club: 1,
+                                        enable_onekey_register: 2,
+                                        enable_using_gmail: 2,
+                                        enable_using_sms: 2,
+                                        facebook: {
+                                            app_id: "",
+                                            status: 0
+                                        },
+                                        fingerprintJS: {
+                                            publicKey: "cIMrDd2qJKZFByajXD7O"
+                                        },
+                                        forgetPwdVerify: {
+                                            securityEmail: 0,
+                                            securityGoogle: 1,
+                                            securityPassQuestion: 2,
+                                            securityPassQuestionAccount: 0,
+                                            securityPhone: 0,
+                                            securityWithdrawPass: 2
+                                        },
+                                        forget_account_passwd_phone_verify_switch: 1,
+                                        forget_account_passwd_question_verify_switch: 1,
+                                        forget_bank_passwd_phone_verify_switch: 1,
+                                        forget_bank_passwd_question_verify_switch: 1,
+                                        free_training_switch: 1,
+                                        geetestDeviceAndroidAppId: "ew2as8ojhn1vyjy8xtxd0myhkxscgqay",
+                                        geetestDeviceAppId: "9ia4hndgblg9xihxcwgdjt9ztg8sjwaf",
+                                        geetestDeviceIOSAppId: "ewkvbrw52ypxzpni86epjpwg9l19ieer",
+                                        geetest_captcha_id: {
+                                            feedback: "62c528ead784206de7e6db17765b9ac0",
+                                            force_geetest: "62c528ead784206de7e6db17765b9ac0",
+                                            login: "62c528ead784206de7e6db17765b9ac0",
+                                            recharge: "62c528ead784206de7e6db17765b9ac0",
+                                            register: "62c528ead784206de7e6db17765b9ac0"
+                                        },
+                                        google: {
+                                            app_id: "",
+                                            status: 0
+                                        },
+                                        inviter_code_required: 0,
+                                        inviter_code_switch: 0,
+                                        inviter_code_update: 0,
+                                        kfOnlineStatus: 1,
+                                        line: {
+                                            app_id: "",
+                                            status: 0
+                                        },
+                                        loginGameRestrictions: {
+                                            loginGameDownloadApp: 0,
+                                            loginGameDownloadAppTips: "为了更好的游戏体验，请下载并安装最新的APP，然后使用账号：{{CustomerAccount}}在APP进行登入和游戏！若有其他问题可{{ContactCustomerService}}",
+                                            loginGameDownloadAppTipsSwitch: 0,
+                                            loginGameDownloadAppType: "1,2,3",
+                                            loginGameFirstCharge: 0,
+                                            loginGameOnlyAndroidDownloadApp: 1,
+                                            loginGameOnlyRechargedDownloadApp: 1,
+                                            loginGameRechargedCountDownloadNativeApp: 99999,
+                                            loginGameRechargedCountDownloadNativeAppTips: "恭喜您已成为超级VIP！为了您更好的体验，请下载原生APP，以便我们提供更高级的服务，若有其他问题可{{ContactCustomerService}}",
+                                            loginGameRechargedCountDownloadNativeAppTipsSwitch: 0
+                                        },
+                                        loginPasswdStrengthDetectSwitch: 0,
+                                        loginQuickEntryCustomer: 1,
+                                        loginQuickEntryFree: 1,
+                                        loginQuickEntryInstant: 1,
+                                        loginRegister: {
+                                            cpf: 0,
+                                            currency: 0,
+                                            inviteCode: 0,
+                                            inviteCodeUnchangeable: 0,
+                                            passwordDefaultPlainText: 0,
+                                            quickEntry: {
+                                                customer: 1,
+                                                trial: 1
+                                            },
+                                            realName: 1,
+                                            tabSort: "1"
+                                        },
+                                        login_validate_mode: 8,
+                                        messageSwitch: {
+                                            ann: {
+                                                delete: 0,
+                                                read: 0
+                                            },
+                                            notify: {
+                                                delete: 0,
+                                                read: 1
+                                            }
+                                        },
+                                        modifyPromoteCurrency: 0,
+                                        musicAutoPlay: 0,
+                                        musicShow: 1,
+                                        questionListDisplay: 0,
+                                        realNameConsecutiveCharLimitTimes: 0,
+                                        realNameMustUppercase: 0,
+                                        realNameRequired: 0,
+                                        realNameSwitch: 1,
+                                        recommendAreaCode: "",
+                                        recommendCurrency: "",
+                                        recommendLanguage: "en",
+                                        registerCpfRequired: 0,
+                                        registerCpfSwitch: 0,
+                                        registerQuickEntryCustomer: 1,
+                                        registerQuickEntryFree: 1,
+                                        registerQuickEntryInstant: 1,
+                                        registerTabSort: "1",
+                                        registerTimeSwitch: 0,
+                                        register_phone_switch: 0,
+                                        register_validate_mode: 8,
+                                        registermode: 3,
+                                        resetPwdOneVerify: 0,
+                                        resversion: "v1.0.0.1",
+                                        securityVerify: {
+                                            firstWithdrawPasswdSet: 0,
+                                            securityEmail: 0,
+                                            securityGoogle: 1,
+                                            securityLoginPass: 1,
+                                            securityPassQuestion: 1,
+                                            securityPhone: 0,
+                                            securityWithdrawPass: 0
+                                        },
+                                        serverversion: "v1.0.0.1",
+                                        site_status: 0,
+                                        strongPasswdLength: 8,
+                                        strongPasswdRequireLowercase: 1,
+                                        strongPasswdRequireNum: 1,
+                                        strongPasswdRequireSpecial: 0,
+                                        strongPasswdRequireUppercase: 1,
+                                        strongPasswdWeakLoginRemind: 1,
+                                        token: "b2e3d672-9d88-47a7-81b4-9d7ffc62054f",
+                                        tryCurrency: "CNY",
+                                        userEmailSwitch: 1,
+                                        userLineSwitch: 0,
+                                        userPhoneSwitch: 1,
+                                        userRegisterTimeSwitch: 1,
+                                        userTwitterSwitch: 0,
+                                        userZaloSwitch: 0,
+                                        user_facebook_switch: 0,
+                                        user_telegram_switch: 0,
+                                        user_wechat_switch: 1,
+                                        user_whatsapp_switch: 0
+                                    }
+                                },
+                                code: 1
+                            }
+                        },
+                        apiGetSiteInfo: {
+                            data: {
+                                data: {
+                                    agentId: 0,
+                                    agentName: "无限级差",
+                                    backgroundColor: 0,
+                                    clubType: 1,
+                                    currencyCode: "CNY",
+                                    currencyId: 0,
+                                    currencyIds: "0",
+                                    currencyInfos: [{
+                                        ci: "https://f3mueh-1085-ppp.oss-accelerate.aliyuncs.com/siteadmin/upload/img/CNY.png",
+                                        currencyAisle: "",
+                                        currencyCode: "CNY",
+                                        currencyDisplay: "CNY",
+                                        currencyName: "人民币",
+                                        currencySign: "￥",
+                                        currencyType: 1,
+                                        fullName: "Chinese Yuan",
+                                        gameRate: 1,
+                                        hs: 1,
+                                        id: 0,
+                                        marketCurrencyCode: "CNY",
+                                        nation: "中国",
+                                        thousandthPlace: ","
+                                    }],
+                                    currencySign: "￥",
+                                    "dec2NyaXB0af7fd543-430e-4d5d-9849-d50d11f92002ion": "",
+                                    gameRate: 1,
+                                    goBizMaintainStatus: 1,
+                                    goClubMaintainStatus: 1,
+                                    goGameMaintainStatus: 1,
+                                    keyword: "",
+                                    languageId: 0,
+                                    languageIds: "0",
+                                    languageInfos: [{
+                                        defaultLanguageTag: !0,
+                                        id: 0,
+                                        languageCode: "zh",
+                                        languageFlagIcon: "icon_flag_zh.png",
+                                        languageName: "简体中文",
+                                        languageTranslateName: "简体中文"
+                                    }],
+                                    languageMatchMode: 0,
+                                    limitStatus: 0,
+                                    maintainStatus: 0,
+                                    maintainTimeBegin: 1729796400,
+                                    maintainTimeEnd: 1729821600,
+                                    siteCode: "1085",
+                                    siteName: "99娱乐城",
+                                    skinConfigInfo: {
+                                        ID: "1-14",
+                                        accent_1: "#04BE02",
+                                        accent_2: "#EA4E3D",
+                                        accent_3: "#FFAA09",
+                                        alt_border: "#666666",
+                                        alt_lead: "#333333",
+                                        alt_neutral_1: "#666666",
+                                        alt_neutral_2: "#999999",
+                                        alt_primary: "#866638",
+                                        alt_text_primary: "#FFFFFF",
+                                        bg_1: "#F8F8F8",
+                                        bg_2: "#FFFFFF",
+                                        border: "#E3E3E3",
+                                        bs_topnav_bg: "#FFFFFF",
+                                        bs_zc_an1: "#F8F8F8",
+                                        bs_zc_bg: "#FFFFFF",
+                                        btmnav_active: "#866638",
+                                        btmnav_def: "#666666",
+                                        ddt_bg: "#E3E3E3",
+                                        ddt_icon: "#F1F1F1",
+                                        filter_active: "#866638",
+                                        filter_bg: "#F8F8F8",
+                                        home_bg: "#FFFFFF",
+                                        icon_1: "#866638",
+                                        icon_tg_q: "#B4B6BF",
+                                        icon_tg_z: "#909199",
+                                        jackpot_text: "#999999",
+                                        jdd_vip_bjc: "#866638",
+                                        kb_bg: "#E3E3E3",
+                                        label_accent3: "#FFAA09",
+                                        labeltext_accent3: "#FFFFFF",
+                                        lead: "#333333",
+                                        leftnav_active: "#FFFFFF",
+                                        leftnav_def: "#999999",
+                                        neutral_1: "#666666",
+                                        neutral_2: "#999999",
+                                        neutral_3: "#CCCCCC",
+                                        primary: "#866638",
+                                        profile_icon_1: "#FFAA09",
+                                        profile_icon_2: "#04BE02",
+                                        profile_icon_3: "#866638",
+                                        profile_icon_4: "#EA4E3D",
+                                        profile_toptext: "#FFFFFF",
+                                        search_icon: "#866638",
+                                        table_bg: "#FFFFFF",
+                                        text_accent3: "#FFFFFF",
+                                        text_primary: "#FFFFFF",
+                                        web_bs_yj_bg: "#F8F8F8",
+                                        web_bs_zc_an2: "#FFFFFF",
+                                        web_btmnav_db: "#FFFFFF",
+                                        web_filter_gou: "#FFFFFF",
+                                        web_left_bg_q: "#FBF9F8",
+                                        web_left_bg_shadow: "#BEA8851F",
+                                        web_left_bg_shadow_active: "#BEA8851F",
+                                        web_left_bg_z: "#F9F7F5",
+                                        web_load_zz: "#E3E3E399",
+                                        web_plat_line: "#FFFFFF",
+                                        web_topbg_1: "#A78244",
+                                        web_topbg_3: "#866638",
+                                        "皮肤名称": "棕色白底",
+                                        "皮肤版式": "亚太风"
+                                    },
+                                    skinId: 13,
+                                    skinTypeValue: 14,
+                                    skinVersion: "v2",
+                                    status: 0,
+                                    timeZone: "UTC +08:00",
+                                    title: "99娱乐城",
+                                    type: 1,
+                                    vestBagJumpConfig: []
+                                },
+                                code: 1
+                            }
+                        },
+                        apiGetAllCurrency: {
+                            data: {
+                                data: [{
+                                    ca: "",
+                                    cc: "BDT",
+                                    cd: "BDT",
+                                    cn: "塔卡",
+                                    cs: "৳",
+                                    ct: 1,
+                                    fn: "Bangladeshi Taka",
+                                    gr: 1,
+                                    id: 28,
+                                    mcc: "BDT",
+                                    nation: "孟加拉",
+                                    tp: ","
+                                }, {
+                                    ca: "USD",
+                                    cc: "TRX",
+                                    cd: "TRX",
+                                    cn: "波场",
+                                    cs: "TRX",
+                                    ct: 2,
+                                    fn: "TRON",
+                                    gr: 1,
+                                    id: 29,
+                                    mcc: "TRX",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "KES",
+                                    cd: "KES",
+                                    cn: "肯尼亚先令",
+                                    cs: "KSh",
+                                    ct: 1,
+                                    fn: "Kenya shilling",
+                                    gr: 1,
+                                    id: 30,
+                                    mcc: "KES",
+                                    nation: "肯尼亚",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "UGX",
+                                    cd: "UGX100:1",
+                                    cn: "乌干达先令",
+                                    cs: "USh",
+                                    ct: 1,
+                                    fn: "Ugandan Shilling",
+                                    gr: 100,
+                                    id: 31,
+                                    mcc: "UGX",
+                                    nation: "乌干达",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "TZS",
+                                    cd: "TZS100:1",
+                                    cn: "坦桑尼亚先令",
+                                    cs: "TZS",
+                                    ct: 1,
+                                    fn: "Tanzanian Shilling",
+                                    gr: 100,
+                                    id: 32,
+                                    mcc: "TZS",
+                                    nation: "坦桑尼亚",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "NGN",
+                                    cd: "NGN",
+                                    cn: "尼日利亚奈拉",
+                                    cs: "NGN",
+                                    ct: 1,
+                                    fn: "Nigerian Naira",
+                                    gr: 1,
+                                    id: 33,
+                                    mcc: "NGN",
+                                    nation: "尼日利亚",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "TRY",
+                                    cd: "TRY",
+                                    cn: "土耳其里拉",
+                                    cs: "₺",
+                                    ct: 1,
+                                    fn: "Turkish Lira",
+                                    gr: 1,
+                                    id: 34,
+                                    mcc: "TRY",
+                                    nation: "土耳其",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "MAD",
+                                    cd: "MAD",
+                                    cn: "摩洛哥迪拉姆",
+                                    cs: "د.م.",
+                                    ct: 1,
+                                    fn: "Moroccan Dirham",
+                                    gr: 1,
+                                    id: 35,
+                                    mcc: "MAD",
+                                    nation: "摩洛哥",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "PKR",
+                                    cd: "PKR",
+                                    cn: "巴基斯坦卢比",
+                                    cs: "₨",
+                                    ct: 1,
+                                    fn: "Pakistani Rupee",
+                                    gr: 1,
+                                    id: 36,
+                                    mcc: "PKR",
+                                    nation: "巴基斯坦",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "PYG",
+                                    cd: "PYG1000:1",
+                                    cn: "巴拉圭瓜拉尼",
+                                    cs: "₲",
+                                    ct: 1,
+                                    fn: "Paraguayan Guarani",
+                                    gr: 1e3,
+                                    id: 37,
+                                    mcc: "PYG",
+                                    nation: "巴拉圭",
+                                    tp: "."
+                                }, {
+                                    ca: "",
+                                    cc: "PEN",
+                                    cd: "PEN",
+                                    cn: "秘鲁新索尔",
+                                    cs: "S/.",
+                                    ct: 1,
+                                    fn: "Peruvian Sol",
+                                    gr: 1,
+                                    id: 38,
+                                    mcc: "PEN",
+                                    nation: "秘鲁",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "ARS",
+                                    cd: "ARS",
+                                    cn: "阿根廷比索",
+                                    cs: "$",
+                                    ct: 1,
+                                    fn: "Argentine Peso",
+                                    gr: 1,
+                                    id: 39,
+                                    mcc: "ARS",
+                                    nation: "阿根廷",
+                                    tp: "."
+                                }, {
+                                    ca: "",
+                                    cc: "EGP",
+                                    cd: "EGP",
+                                    cn: "埃及镑",
+                                    cs: "E£",
+                                    ct: 1,
+                                    fn: "Egyptian Pound",
+                                    gr: 1,
+                                    id: 40,
+                                    mcc: "EGP",
+                                    nation: "埃及",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "ZMW",
+                                    cd: "ZMW",
+                                    cn: "赞比亚克瓦查",
+                                    cs: "ZK",
+                                    ct: 1,
+                                    fn: "",
+                                    gr: 1,
+                                    id: 41,
+                                    mcc: "ZMW",
+                                    nation: "赞比亚",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "CNY",
+                                    cd: "CNY",
+                                    cn: "人民币",
+                                    cs: "￥",
+                                    ct: 1,
+                                    fn: "Chinese Yuan",
+                                    gr: 1,
+                                    id: 0,
+                                    mcc: "CNY",
+                                    nation: "中国",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "JPY",
+                                    cd: "JPY",
+                                    cn: "日元",
+                                    cs: "￥",
+                                    ct: 1,
+                                    fn: "Japanese Yen",
+                                    gr: 1,
+                                    id: 1,
+                                    mcc: "JPY",
+                                    nation: "日本",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "THB",
+                                    cd: "THB",
+                                    cn: "泰铢",
+                                    cs: "฿",
+                                    ct: 1,
+                                    fn: "Thai Baht",
+                                    gr: 1,
+                                    id: 2,
+                                    mcc: "THB",
+                                    nation: "泰国",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "USD",
+                                    cd: "USD",
+                                    cn: "美元",
+                                    cs: "$",
+                                    ct: 1,
+                                    fn: "United States Dollar",
+                                    gr: 1,
+                                    id: 3,
+                                    mcc: "USD",
+                                    nation: "美国",
+                                    tp: ","
+                                }, {
+                                    ca: "USD",
+                                    cc: "USDT",
+                                    cd: "USDT",
+                                    cn: "USDT",
+                                    cs: "U",
+                                    ct: 2,
+                                    fn: "Tether",
+                                    gr: 1,
+                                    id: 4,
+                                    mcc: "USDT",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "VND",
+                                    cd: "VND1000:1",
+                                    cn: "越南盾",
+                                    cs: "₫",
+                                    ct: 1,
+                                    fn: "Vietnamese Dong",
+                                    gr: 1e3,
+                                    id: 5,
+                                    mcc: "VND",
+                                    nation: "越南",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "IDR",
+                                    cd: "IDR1000:1",
+                                    cn: "印尼盾",
+                                    cs: "Rp",
+                                    ct: 1,
+                                    fn: "Indonesian Rupiah",
+                                    gr: 1e3,
+                                    id: 6,
+                                    mcc: "IDR",
+                                    nation: "印尼",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "INR",
+                                    cd: "INR",
+                                    cn: "印度卢比",
+                                    cs: "₹",
+                                    ct: 1,
+                                    fn: "Indian Rupee",
+                                    gr: 1,
+                                    id: 7,
+                                    mcc: "INR",
+                                    nation: "印度",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "GBP",
+                                    cd: "GBP",
+                                    cn: "英镑",
+                                    cs: "£",
+                                    ct: 1,
+                                    fn: "Pound Sterling",
+                                    gr: 1,
+                                    id: 8,
+                                    mcc: "GBP",
+                                    nation: "英国",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "KRW",
+                                    cd: "KRW",
+                                    cn: "韩元",
+                                    cs: "₩",
+                                    ct: 1,
+                                    fn: "South Korean Won",
+                                    gr: 1,
+                                    id: 9,
+                                    mcc: "KRW",
+                                    nation: "韩国",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "AUD",
+                                    cd: "AUD",
+                                    cn: "澳元",
+                                    cs: "A$",
+                                    ct: 1,
+                                    fn: "Australian Dollar",
+                                    gr: 1,
+                                    id: 10,
+                                    mcc: "AUD",
+                                    nation: "澳大利亚",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "BRL",
+                                    cd: "BRL",
+                                    cn: "巴西雷亚尔",
+                                    cs: "R$",
+                                    ct: 1,
+                                    fn: "Brazilian Real",
+                                    gr: 1,
+                                    id: 11,
+                                    mcc: "BRL",
+                                    nation: "巴西",
+                                    tp: "."
+                                }, {
+                                    ca: "",
+                                    cc: "MXN",
+                                    cd: "MXN",
+                                    cn: "墨西哥比索",
+                                    cs: "$",
+                                    ct: 1,
+                                    fn: "Mexican Peso",
+                                    gr: 1,
+                                    id: 12,
+                                    mcc: "MXN",
+                                    nation: "墨西哥",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "EUR",
+                                    cd: "EUR",
+                                    cn: "欧元",
+                                    cs: "€",
+                                    ct: 1,
+                                    fn: "Euro",
+                                    gr: 1,
+                                    id: 13,
+                                    mcc: "EUR",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "RUB",
+                                    cd: "RUB",
+                                    cn: "俄罗斯卢布",
+                                    cs: "₽",
+                                    ct: 1,
+                                    fn: "Russian Ruble",
+                                    gr: 1,
+                                    id: 14,
+                                    mcc: "RUB",
+                                    nation: "俄罗斯",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "MMK",
+                                    cd: "MMK",
+                                    cn: "缅甸元",
+                                    cs: "K",
+                                    ct: 1,
+                                    fn: "Myanma Kyat",
+                                    gr: 1,
+                                    id: 15,
+                                    mcc: "MMK",
+                                    nation: "缅甸",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "IDRK",
+                                    cd: "IDRK",
+                                    cn: "印尼盾",
+                                    cs: "Rp",
+                                    ct: 1,
+                                    fn: "Indonesian Rupiah",
+                                    gr: 1,
+                                    id: 16,
+                                    mcc: "IDR",
+                                    nation: "印尼",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "AED",
+                                    cd: "AED",
+                                    cn: "迪拉姆",
+                                    cs: "د.إ",
+                                    ct: 1,
+                                    fn: "United Arab Emirates Dirham",
+                                    gr: 1,
+                                    id: 17,
+                                    mcc: "AED",
+                                    nation: "阿联酋",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "HKD",
+                                    cd: "HKD",
+                                    cn: "港币",
+                                    cs: "$",
+                                    ct: 1,
+                                    fn: "Hong Kong Dollar",
+                                    gr: 1,
+                                    id: 18,
+                                    mcc: "HKD",
+                                    nation: "香港",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "PHP",
+                                    cd: "PHP",
+                                    cn: "菲律宾比索",
+                                    cs: "₱",
+                                    ct: 1,
+                                    fn: "Philippine Peso",
+                                    gr: 1,
+                                    id: 19,
+                                    mcc: "PHP",
+                                    nation: "菲律宾",
+                                    tp: ","
+                                }, {
+                                    ca: "CNY",
+                                    cc: "BTC1",
+                                    cd: "BTC1:100000",
+                                    cn: "比特币",
+                                    cs: "₿",
+                                    ct: 2,
+                                    fn: "Bitcoin",
+                                    gr: 1e-5,
+                                    id: 20,
+                                    mcc: "BTC",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "CNY",
+                                    cc: "ETH1",
+                                    cd: "ETH1:10000",
+                                    cn: "以太坊",
+                                    cs: "E",
+                                    ct: 2,
+                                    fn: "Ethereum",
+                                    gr: 1e-4,
+                                    id: 21,
+                                    mcc: "ETH",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "CNY",
+                                    cc: "USDT1",
+                                    cd: "USDT1:7",
+                                    cn: "USDT",
+                                    cs: "U",
+                                    ct: 2,
+                                    fn: "Tether",
+                                    gr: .1428571428571429,
+                                    id: 22,
+                                    mcc: "USDT",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "CNY",
+                                    cc: "USDC1",
+                                    cd: "USDC1:7",
+                                    cn: "USDC",
+                                    cs: "U",
+                                    ct: 2,
+                                    fn: "USD Coin",
+                                    gr: .1428571428571429,
+                                    id: 23,
+                                    mcc: "USDC",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "USD",
+                                    cc: "USDC",
+                                    cd: "USDC",
+                                    cn: "USDC",
+                                    cs: "U",
+                                    ct: 2,
+                                    fn: "USD Coin",
+                                    gr: 1,
+                                    id: 24,
+                                    mcc: "USDC",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "USD",
+                                    cc: "BTC",
+                                    cd: "BTC1:10000",
+                                    cn: "比特币",
+                                    cs: "₿",
+                                    ct: 2,
+                                    fn: "Bitcoin",
+                                    gr: 1e-4,
+                                    id: 25,
+                                    mcc: "BTC",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "USD",
+                                    cc: "ETH",
+                                    cd: "ETH1:1000",
+                                    cn: "以太坊",
+                                    cs: "E",
+                                    ct: 2,
+                                    fn: "Ethereum",
+                                    gr: .001,
+                                    id: 26,
+                                    mcc: "ETH",
+                                    nation: "",
+                                    tp: ","
+                                }, {
+                                    ca: "",
+                                    cc: "KHR",
+                                    cd: "KHR100:1",
+                                    cn: "柬埔寨瑞尔",
+                                    cs: "៛",
+                                    ct: 1,
+                                    fn: "Cambodian Riel",
+                                    gr: 100,
+                                    id: 27,
+                                    mcc: "KHR",
+                                    nation: "柬埔寨",
+                                    tp: ","
+                                }],
+                                code: 1
+                            }
+                        },
+                        ossGetSiteUrlConfig: {
+                            data: {
+                                code: 1,
+                                data: "iap6AXtaCqIBle8FB04rpJ/MRo9x3joBZX+TgZABPFbwvKymw7MkAjt+ibr0vNaK4R6CtBmrvelziRnLdSU5Og7rlLlXwMI5er6VMotOksNzL+9XW4xZ+Jdi7OBA7twpcQ/MVacD7WiLMeygrLUGuO2kq4IbqbJ+hVEkHIKLmwDQea8WXS4KP/XhlplkD9iBa1AvFZWVKvvNZyKfCgKknbMU/k8U5d08K3gZ0jaqFVQtyJk8GaOocO4F4ePZyPmw2PEmV6VPs24l7rgBiWe3/CFDLlz5DudDmxDbfpdz1v8LJOSEuSpQmJ04dH4jnapcOxTcVKDw5TkTzyl2Cyak5NTWoAPtD01qStx4hj7xwNLDzBTuY7JHcp4tMqvIgxNMhpJAY/dU1XfgL4uISotyyxs/V2ti1qII2jhPlcm2HF+IIG8CtCgReItMV83ek8mI73pSwUNbn2ez/NlPz5nbSCsVtJK5uI20j9S1BLIfwNw7xj6FXt/UzUpTrfJ4XxTsJoqwXnpF9Vjht12a0K6I7KfWqMXD5LRpCvTp0vHJYOYd5+nCQQ2sEjeGuMsjYU3x7yMlZEZ+gbW5VVdek6xIvxj8dul4zSibY/iLlNuZc+K81o3pzx1gzxWED2GllJHcHo60GD3qNUNLZSOgLr5+3USnr8qHD9UtcaE7nZfs1uP11F5bvOlpANUOL4ah+vTglBC61GPCgaMmcUawcVH655fOHNlZr5SrT/Jj5fPtjgRZvK7XYLQQA46mK6XXMf1WWG67EOnBl5Ep6vM4ERUQvYdWcdI7ir2x4rfiN3SYaJhrkeTzXM+epXqWzT7ew5P3NqWEKdWDYVieR5h70Byd5Qx8yR53JRpE3yt0qiZF+D/sOyO1sYspCrj0O5okziHG2uEdNHiBtMH8bteX5BkP80H749gmV/cD8d8zIqVRwH7m6g6GhrN4PxwT3gBoLyc0CiWgpv4thxHr15QNGIFZXdWsuevUrLciYR0Gf5LR7S+sVKfSPryhJ6L65LSkTnLeo02Qs+ZwLCf6qxZxYOtqtS/KPZ7DWuoR5qe12qvsTExfgVrpHbLrq9kTFj6dNFiKAiU9NTw7nXXDxtk0+Hn3VimTxzXJVj5/hyxRyXp/vJlbgM/frsyAUhE2MYzlrnhN53nIw2ZQxHu2Xj9lkRessKUlhARxywD1tm6oH5AMHW2X0RLxtl7YFHZA7jBB87orjmAOR23wtRCVpHWgYcXXrux1jReKfkMCTcNyqTxRzRbJnF/ZCe1CIEn5BjTevo9xFrLWyaZOMFMhumKw4CBOisDGRP5MunsHc5LDcH9RJv/bpb0Gogn/b+3s6FhQonbQnY0xhBUU4YnhlOVT06XFgRMkituPFQtRgeXP6BxlVxToNfnTCqv9NSqHC8MM2+xLDw8Z24aQCRwK3LusZntNTFSFqYS/h+p9PpNXd46XosryuOrdwuYrXaNhrv4rFhcIPaYEq+R6wU+x+weIotTNzu6C/xFz99EhU//+lLfyeTBun+h9aeQkwbV4FYtOPPm94UY2oiZZVPduJ/cN3yb1t5Iw5ONhKrSo4Vca2Y0MrQUfQfYeF4eHMemGaIt5kGr20kd6oxnW/WY4QKSDZeJGpJB3deHBc82OvDemjop8gK78YB4n83NQgrUHYYNyXO28UTlYycBa7aKEk/xq1I5wilbmT8Q88OP3EJXbVhhD7fX1hlMCm7HUg1Vr9MQpTNLo9r9iGXoI9gNDCPT4p7Evzbf28r7g6YNNZghYKL3487CxrEPmN9OYwNW5DGr9+aeCSbgWWJNywgDhmYabq4MYd94NLEu9BYHIc4XwQjvlYTt0FW0Yt8rNn1yFyNRKGqh7Nx+8fsv9jJ62ybxgTTopjJqgaMeLpTV2nrxqcvUy6po4CuKkvmjxa1iKbGRpvO53Kz5DbaiTUxG4U/wunG3UCVS1+Itvmw0mOboETcp+EKm/6aCKse8UE2hLZ5GzqFNWvTY1lAvXAZKBjmtZNo8TmObbZaai71UwCRBXnh8gf786DQXpGqfBa9Jkb1vbiqJhJtM7ZA0eFkhucGSj1YbyiBimIwdPN/ojoQmwsVoo2vCNfxA1PQCfp40sx8C8or8PBzTRQbdpG1uIKJAthAV8a/roK6onHwPrC1QffG0x4GJiHr3HSqBpV+pMd2UgD5Y+qN/Alh4DGuSh1+q+ChxjMRHvF4lNWsNBCCUmxvEN7aFF8fKvaVNIoGlr0NSUTWrX4oaLhlfegfJcZRtPsGd3QbpgEQtjxk0qln3wmdBIZrnstai9rUAQFQSRq+bJTrvG7HWNF4p+QwJNw3KpPFHNFsmcX9kJ7UIgSfkGNN6+j3EWstbJpk4wUyG6YrDgIE6KwMZE/ky6ewdzksNwf1Em/9ulvQaiCf9v7ezoWFCidtCdjTGEFRThieGU5VPTpcWBEySK248VC1GB5c/oHGVXFOg1+dMKq/01KocLwwzb7EsPDxnbhpAJHArcu6xme01MVIWphL+H6n0+k1d3jpeiyvK46t3C5itdo2Gu/isWFwg9pgSr5HrBT7H7B4ii1M3O7oL/EXP30SFT//6Ut/J5MG6f6H1p5CTBtXgVi048+b3hRjaiJllU924n9w3fJvW3kjDk42EqtKjhVxrZjQytBR9B9h4Xh4cx6YZoi3mQavbSR3qjGdb9ZjhApINl4kakkHd14cFzzY68N6aOinyArvxgHifzc1CCtQdhg3Jc7bxROVjJwFrtooST/GrUjnCKVuZPxDzw4/cQldtWGEPt9Xwj3hJM4mM+a170OzF/mCpXf5AJOkUjn/OkcMHBgEsh1tI4FNXHfsS9qEUIJDOHa+Vmv0Zp6jF1moza6TfZHWPYruumZ5y86bNQBThgOp8D7oL/EXP30SFT//6Ut/J5MMBD2EjVX3Hey7MPQV2J6H+IypMSlBb1RZBUXLBGTCl8ZArWHpdoLWQ5l+V1lQsvlS/0F0MxhH6JcaN22zOEE33S1Oy/ouvA//R/TEjEYgxC8EWGfb0JiyN8QAKXJlUyutWmqM9c7tjzH99KwX/YtDBjDxjHgWOMK/yTeeq8awMkwvi/PpOVQ5rKTuUVGCBDUX6kNHulTzP8iKJvZmQIJe+PZPCXeWbepR2SqH5po2CzY24B61hYz/WyBHR5MkLGhdKCg4RvFLVgoyFeqMAboYgb/AOPA6oqCrtXRQeFxItgjUJ+RYTR7MIISesBFNBocF7/wMEy4x+QXyWP/TP6zaPW/G0sZUterc0O/Ox4he0sMLzWnAaKIFbaIQQks0RKL4uP1ywYR1kH5WSUV+d9ueIwkpO4mLAl4KX6xssgyercWKtHMsgKNhcEOa/Yao+jQHWd82NdFkL6v5NPlDxBV2NZfDx+tslJO5kGYWOqEWhlAXCb7KtC598A831wGEEeShckHCbkK2FkAd9ssYpe9KnjYxj6gJibotH6eRWmj8xcXNVNqH9fjsYD32YfakjQAIfB9PMUp01O/Wp9EHwwhC4ubOoP4jfJBYlsG+XaEc2r+6EmhjfFHl4gKBAUHkiATUpMD/vWVkhvrvlNvbcQDLLzSQvhpN/gkzKAfsgykJ3jid3RphKN9lllopZiHbsuXIQf9ZvPoLjofVdOKyhNQs0OGcz2D0fooghNg93OnttFNvFmbmtD9e2Z2yNOP+TEW8dWK/YvkU2GYvW74r23DYxMh6zgSXHpnA4m7MSoASynWlDwjXO/SoIvWKXgD+b8eVGwD8qjP5vvStzbsZuNSwsdS6E5uxxwjREsNjEo0YvxP7DN1p34bbzu8UhsXGx/ciVlFdA2uuTJmZ8dTiiFPzOME9jN6fkAJ2PV5L3444Xx"
+                            }
+                        },
+                        ossGetSkinAssetsHash: null
+                    },
+                    LOG: {
+                        uuid: "616531e0e6e68c3a02482e29443792e7"
+                    }
+                }), a = [{
+                    from: "script",
+                    to: "c2NyaXB0af7fd543-430e-4d5d-9849-d50d11f92002"
+                }], n = 0; n < a.length; n++) {
+                    var c = a[n];
+                    e = e.replace(new RegExp(c.to,"g"), c.from)
+                }
+                var t = e;
+                window.LOBBY_SITE_CONFIG = JSON.parse(t)
+            }()
+        </script>
+        <script defer=defer>
+            !function() {
+                try {
+                    var e = window.LOBBY_SITE_CONFIG.siteCode;
+                    if (window.LOBBY_SITE_CONFIG.INJECT_DATA.apiGetSiteInfo.data.data.vestBagJumpConfig.find((e => "wg.sensors.on" == e.packageName)) || ["230", "250", "296", "702", "326", "722", "500", "5033", "6275", "6276", "1071", "1056", "663", "5228", "5073", "5021", "5091", "5050", "5235", "602", "5012", "5119", "6332", "373", "6822"].includes(e)) {
+                        var t = document.cookie.match(/distinct_id%22%3A%22([^%]*)/)
+                          , i = {
+                            distinct_id: t ? t[1] : "0",
+                            properties: {
+                                siteCode: e
+                            },
+                            type: "track",
+                            event: "sdkBefore"
+                        };
+                        fetch("https://apiup-cf.cbfes.com/sa.gif?project=production", {
+                            body: "data=" + window.btoa(JSON.stringify(i)) + "&ext=crc=0",
+                            method: "post"
+                        })
+                    }
+                } catch (e) {
+                    console.error("sdkBefore:", e)
+                }
+                window.LOBBY_UTILS = {
+                    preventZoom() {
+                        var e = 0;
+                        document.addEventListener("touchstart", (function(e) {
+                            e.touches.length > 1 && e.preventDefault()
+                        }
+                        )),
+                        document.addEventListener("touchend", (function(t) {
+                            var i = (new Date).getTime();
+                            i - e <= 300 && t.preventDefault(),
+                            e = i
+                        }
+                        ), !1),
+                        document.addEventListener("gesturestart", (function(e) {
+                            e.preventDefault()
+                        }
+                        ))
+                    },
+                    detectDeviceType() {
+                        var e = navigator.userAgent
+                          , t = () => e.match(/(iPad)/) || !e.match(/(iPhone\sOS)\s([\d_]+)/) && window.screen.height > window.screen.width && /macintosh|mac os x/i.test(e)
+                          , i = () => /iPhone|Android.+Mobile/.test(e) || navigator.maxTouchPoints && navigator.maxTouchPoints > 1 && /Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(e);
+                        return {
+                            tablet: t,
+                            mobile: i,
+                            desktop: () => !t() && !i()
+                        }
+                    },
+                    mediaScreen() {
+                        var e = window.LOBBY_UTILS.detectDeviceType()
+                          , t = e.tablet()
+                          , i = e.desktop()
+                          , n = window.innerWidth
+                          , o = window.innerHeight
+                          , a = 750 / 1334
+                          , r = "mobile"
+                          , d = "0"
+                          , s = n / o > a ? a * o : n;
+                        n > 450 && !t && (d = "1");
+                        var c = document.querySelector("html");
+                        return c && (c.style.setProperty("--lobby__max-width", "1" === d ? s + "px" : "100%"),
+                        c.style.setProperty("--lobby__vh", .01 * o + "px"),
+                        c.setAttribute("data-device", r),
+                        c.setAttribute("data-ui-contain", d),
+                        c.setAttribute("data-isdesktop", i ? "1" : "0")),
+                        {
+                            device: r,
+                            size: "small",
+                            uiContain: d
+                        }
+                    },
+                    initSplash() {
+                        window.initSplash = {
+                            nodeClassName: "skeleton-screen-main",
+                            destroy(e) {
+                                try {
+                                    var t = document.getElementsByClassName(this.nodeClassName)[0];
+                                    t.parentNode && t.parentNode.removeChild(t)
+                                } catch (t) {
+                                    !e && this.destroy(!0)
+                                }
+                            }
+                        }
+                    },
+                    redirect() {
+                        if (-1 !== window.navigator.userAgent.toLowerCase().indexOf("micromessenger")) {
+                            var e = `/pages/wechat/index.html?payload=${window.btoa(JSON.stringify({
+                                origialUrl: encodeURIComponent(window.location.href)
+                            }))}&t=${+new Date}`;
+                            window.location.href = e
+                        }
+                    }
+                },
+                LOBBY_UTILS.redirect(),
+                LOBBY_UTILS.initSplash(),
+                LOBBY_UTILS.mediaScreen(),
+                window.addEventListener("resize", (function() {
+                    -1 === window.location.href.indexOf("fixed.isSaveShort") && (window.scrollTo(0, 1),
+                    LOBBY_UTILS.mediaScreen())
+                }
+                )),
+                LOBBY_UTILS.preventZoom()
+            }()
+        </script>
+        <script type=module crossorigin="" src=/assets/theme-1/index.DaIK-bZh.js></script>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-bignumber.BRr1dcww.js>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-@vue.DNlpgob2.js>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-default.CjiYZF7Q.js>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-lodash.BYdGDldS.js>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-swiper.ZXc-sUCV.js>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-@intlify.BmUtFfVu.js>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-stable.LD58Pbb3.js>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-@sentry.EjpkRnd3.js>
+        <link rel=modulepreload crossorigin="" href=/assets/vendors/vendor-dom-to-image.C12bjAh8.js>
+        <link rel=modulepreload crossorigin="" href=/assets/theme-1/main.BFcCoce8.js>
+        <link rel=modulepreload crossorigin="" href=/assets/theme-1/setup.gvoivftz.js>
+        <link rel=preload crossorigin="" href=/assets/vendors/vendor-default.D-eq1dc7.css as=style onload='this.onload=null,this.rel="stylesheet"'>
+        <link rel=preload crossorigin="" href=/assets/vendors/vendor-swiper.BH51ma1P.css as=style onload='this.onload=null,this.rel="stylesheet"'>
+        <link rel=preload crossorigin="" href=/assets/theme-1/main.DckZQvQT.css as=style onload='this.onload=null,this.rel="stylesheet"'>
+        <link rel=preload crossorigin="" href=/assets/theme-1/setup.Dp-O0mWs.css as=style onload='this.onload=null,this.rel="stylesheet"'>
+        <script type=module>
+            import.meta.url,
+            import("_").catch(( () => 1)),
+            async function*() {}().next(),
+            "file:" != location.protocol && (window.__vite_is_modern_browser = !0)
+        </script>
+        <script type=module>
+            !function() {
+                if (!window.__vite_is_modern_browser) {
+                    console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");
+                    var e = document.getElementById("vite-legacy-polyfill")
+                      , t = document.createElement("script");
+                    t.src = e.src,
+                    t.onload = function() {
+                        System.import(document.getElementById("vite-legacy-entry").getAttribute("data-src"))
+                    }
+                    ,
+                    document.body.appendChild(t)
+                }
+            }()
+        </script>
+    </head>
+    <body>
+        <div id=app></div>
+        <div class=skeleton-screen-main style=background-color:transparent data-inject-mode="undefined">
+            <div>
+                <style>
+                    html[data-ui-contain="1"] .skeleton-screen-main {
+                        max-width: var(--lobby__max-width);
+                        margin: 0 auto
+                    }
+
+                    .skeleton-screen-main {
+                        position: fixed;
+                        top: 0;
+                        right: 0;
+                        bottom: 0;
+                        left: 0;
+                        z-index: 1000
+                    }
+
+                    .skeleton-screen-main .base-loading-animation {
+                        background-image: linear-gradient(90deg,var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),rgba(var(--skin__border__toRgbString),.2),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1));
+                        background-size: 400%;
+                        animation: bganimation 1.2s infinite
+                    }
+
+                    .skeleton-screen-main .base-loading-animation1 {
+                        background-image: linear-gradient(90deg,var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1),rgba(var(--skin__border__toRgbString),.2),var(--skin__bg_1),var(--skin__bg_1),var(--skin__bg_1));
+                        background-size: 400%;
+                        animation: bganimation 1.2s infinite
+                    }
+
+                    .skeleton-screen-main .b-redius-min {
+                        border-radius: .05rem
+                    }
+
+                    .skeleton-screen-main .b-redius {
+                        border-radius: .12rem
+                    }
+
+                    .skeleton-screen-main .b-redius-max {
+                        border-radius: .2rem
+                    }
+
+                    .skeleton-screen-main .b-shadow {
+                        box-shadow: 0 .03rem .09rem 0 rgba(0,0,0,.0235294118)
+                    }
+
+                    @keyframes bganimation {
+                        0% {
+                            background-position: 100% 50%
+                        }
+
+                        100% {
+                            background-position: 0 50%
+                        }
+                    }
+
+                    html[data-ui-contain="1"] .skeleton-screen-main .bottom-menu {
+                        left: auto!important;
+                        max-width: var(--lobby__max-width);
+                        margin: 0 auto
+                    }
+
+                    .base-loading-container {
+                        height: 100vh;
+                        background: var(--skin__bg_2)
+                    }
+
+                    .base-loading-container header {
+                        display: flex;
+                        align-items: center;
+                        width: 100%;
+                        height: .8rem;
+                        background: var(--skin__bg_2);
+                        border-bottom: .02rem solid var(--skin__border)
+                    }
+
+                    .base-loading-container header>.mid {
+                        width: 1.8rem;
+                        height: .54rem
+                    }
+
+                    .base-loading-container header>.left,.base-loading-container header>.right {
+                        display: flex;
+                        flex: 1;
+                        align-items: center;
+                        justify-content: left
+                    }
+
+                    .base-loading-container header>.right {
+                        justify-content: right
+                    }
+
+                    .base-loading-container header>div>.item {
+                        padding: 0 .2rem
+                    }
+
+                    .base-loading-container header>div>.item>.circle {
+                        width: .38rem;
+                        height: .38rem;
+                        margin: 0 auto;
+                        border-radius: 50%
+                    }
+
+                    .base-loading-container header>div>.item>.p1 {
+                        width: .4rem;
+                        height: .12rem;
+                        margin: 0 auto;
+                        margin-top: .06rem
+                    }
+
+                    .base-loading-container .bottom-menu {
+                        position: fixed;
+                        bottom: 0;
+                        left: 0;
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-evenly;
+                        width: 100%;
+                        height: 1rem;
+                        background: var(--skin__bg_2);
+                        box-shadow: 0 -.09rem .06rem 0 rgba(0,0,0,.031372549)
+                    }
+
+                    .base-loading-container .bottom-menu>.item {
+                        padding: 0 .06rem
+                    }
+
+                    .base-loading-container .bottom-menu>.item>.circle {
+                        width: .38rem;
+                        height: .38rem;
+                        margin: 0 auto;
+                        border-radius: 50%
+                    }
+
+                    .base-loading-container .bottom-menu>.item>.p1 {
+                        width: .6rem;
+                        height: .12rem;
+                        margin: 0 auto;
+                        margin-top: .12rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content {
+                        padding: 0 .2rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.ban {
+                        width: 100%;
+                        margin-top: .2rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner1 {
+                        height: 1.5rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner2 {
+                        display: flex;
+                        align-items: center
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner2>.circle {
+                        width: .38rem;
+                        height: .38rem;
+                        border-radius: 50%
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner2>.p1 {
+                        flex: 1;
+                        height: .12rem;
+                        margin-left: .12rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner3 {
+                        display: flex
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner3>.left>.p1,.base-loading-container .main-content>.centre-content>.banner3>.left>.p2 {
+                        width: 2.2rem;
+                        height: .12rem;
+                        margin-top: .18rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner3>.left>.p2 {
+                        width: 1.8rem;
+                        margin-top: .18rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner3>.right {
+                        display: flex;
+                        flex: 1;
+                        justify-content: space-between;
+                        padding-left: .8rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner3>.right>div {
+                        width: .68rem;
+                        height: .68rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4 {
+                        display: flex;
+                        padding-top: .2rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4>.left {
+                        padding-right: .2rem;
+                        overflow: hidden
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4>.left>.item {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 1.4rem;
+                        height: .65rem;
+                        margin: 0 auto
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4>.left>.item+.item {
+                        margin-top: .2rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4>.left>.item>.circle {
+                        width: .38rem;
+                        height: .38rem;
+                        background: var(--skin__bg_2);
+                        border-radius: 50%
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4>.left>.item>.p1 {
+                        width: .6rem;
+                        height: .12rem;
+                        margin-left: .06rem;
+                        background: var(--skin__bg_2)
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4>.right {
+                        flex: 1
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4>.right>.top {
+                        display: flex;
+                        justify-content: space-between;
+                        padding: .28rem;
+                        border-bottom: thin solid var(--skin__border)
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4>.right>.top>div {
+                        width: .9rem;
+                        height: .14rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4 .game-list {
+                        display: flex;
+                        flex-wrap: wrap;
+                        padding-top: .3rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4 .game-list>.game-item {
+                        width: 33.3333333333%;
+                        padding-bottom: .3rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4 .game-list>.game-item>.img {
+                        width: 1.3rem;
+                        height: 1.3rem;
+                        margin: 0 auto
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4 .game-list>.game-item>.p1,.base-loading-container .main-content>.centre-content>.banner4 .game-list>.game-item>.p2 {
+                        width: .8rem;
+                        height: .1rem;
+                        margin: 0 auto;
+                        margin-top: .12rem
+                    }
+
+                    .base-loading-container .main-content>.centre-content>.banner4 .game-list>.game-item>.p2 {
+                        width: .6rem;
+                        margin-top: .06rem
+                    }
+                </style>
+                <div data-device=mobile class=base-loading-container>
+                    <header class=shadow>
+                        <div class=left>
+                            <div class=item>
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                            <div class=item>
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                        </div>
+                        <div class="mid b-redius base-loading-animation"></div>
+                        <div class=right>
+                            <div class=item>
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                            <div class=item>
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                        </div>
+                    </header>
+                    <main class=main-content>
+                        <div class=bottom-menu>
+                            <div class="item b-redius">
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                            <div class="item b-redius">
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                            <div class="item b-redius">
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                            <div class="item b-redius">
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                            <div class="item b-redius">
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                        </div>
+                        <div class=centre-content>
+                            <div class="ban banner1 b-redius base-loading-animation"></div>
+                            <div class="ban banner2">
+                                <div class="circle base-loading-animation"></div>
+                                <div class="p1 base-loading-animation b-redius-min"></div>
+                            </div>
+                            <div class="ban banner3">
+                                <div class=left>
+                                    <div class="p1 base-loading-animation b-redius-min"></div>
+                                    <div class="p2 base-loading-animation b-redius-min"></div>
+                                </div>
+                                <div class=right>
+                                    <div class="base-loading-animation b-redius-min"></div>
+                                    <div class="base-loading-animation b-redius-min"></div>
+                                    <div class="base-loading-animation b-redius-min"></div>
+                                    <div class="base-loading-animation b-redius-min"></div>
+                                </div>
+                            </div>
+                            <div class="ban banner4">
+                                <div class=left>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                    <div class="item b-redius base-loading-animation">
+                                        <div class=circle></div>
+                                        <div class="p1 b-redius-min"></div>
+                                    </div>
+                                </div>
+                                <div class=right>
+                                    <div class=top>
+                                        <div class="base-loading-animation b-redius-min"></div>
+                                        <div class="base-loading-animation b-redius-min"></div>
+                                        <div class="base-loading-animation b-redius-min"></div>
+                                        <div class="base-loading-animation b-redius-min"></div>
+                                    </div>
+                                    <div class=game-list>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                        <div class=game-item>
+                                            <div class="img base-loading-animation b-redius"></div>
+                                            <div class="p1 base-loading-animation b-redius-min"></div>
+                                            <div class="p2 base-loading-animation b-redius-min"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+            </div>
+        </div>
+        <style>
+            .antiban {
+                position: fixed;
+                left: 0;
+                right: 0;
+                top: 0;
+                bottom: 0;
+                background-color: #fff;
+                z-index: 99999
+            }
+
+            .antiban .antiban-box {
+                width: 90%;
+                margin-top: 1.4rem;
+                margin-right: auto;
+                margin-left: auto;
+                padding: .15rem;
+                color: #3c763d;
+                background-color: #dff0d8;
+                font-size: .14rem;
+                text-align: center;
+                border: .01rem solid transparent;
+                border-radius: .04rem
+            }
+
+            .antiban .antiban-forward {
+                display: inline-block;
+                margin-top: .2rem;
+                margin-bottom: 0;
+                padding: .06rem .12rem;
+                color: #fff;
+                font-weight: 400;
+                white-space: nowrap;
+                text-align: center;
+                vertical-align: middle;
+                background-color: #5cb85c;
+                background-image: none;
+                border: .01rem solid transparent;
+                border-radius: .04rem;
+                cursor: pointer
+            }
+        </style>
+        <script nomodule="">
+            !function() {
+                var e = document
+                  , t = e.createElement("script");
+                if (!("noModule"in t) && "onbeforeload"in t) {
+                    var n = !1;
+                    e.addEventListener("beforeload", (function(e) {
+                        if (e.target === t)
+                            n = !0;
+                        else if (!e.target.hasAttribute("nomodule") || !n)
+                            return;
+                        e.preventDefault()
+                    }
+                    ), !0),
+                    t.type = "module",
+                    t.src = ".",
+                    e.head.appendChild(t),
+                    t.remove()
+                }
+            }()
+        </script>
+        <script nomodule="" crossorigin="" id=vite-legacy-polyfill src=/assets/theme-1/polyfills-legacy.E-pyhZ8T.js></script>
+        <script nomodule="" crossorigin="" id=vite-legacy-entry data-src=assets/theme-1/index-legacy.BW81sqF4.js>
+            System.import(document.getElementById("vite-legacy-entry").getAttribute("data-src"))
+        </script>
+    </body>
+</html>

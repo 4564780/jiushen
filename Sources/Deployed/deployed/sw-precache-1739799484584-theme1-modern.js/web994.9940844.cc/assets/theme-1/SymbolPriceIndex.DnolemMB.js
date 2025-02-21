@@ -1,0 +1,2 @@
+import{el as a,b6 as c,q as n}from"./main.C8q1iJMV.js";import{l as p,r as m,a5 as i,p as s,v as l}from"../vendors/vendor-@vue.DNlpgob2.js";const d="_price_1n0mt_17",y="_symbol_1n0mt_21",t={price:d,symbol:y},[b]=n("pages-components-sport-symbol-price"),_=p({name:b,props:{price:{type:Number,required:!0}},setup(r){const e=m(),o=i(e);return()=>s("span",{class:t.price,style:{paddingLeft:c(o.width.value*1.1)}},[s("span",{ref:e,class:t.symbol},[l("@")]),a(r.price)])}});export{_ as S};
+//# sourceMappingURL=SymbolPriceIndex.DnolemMB.js.map

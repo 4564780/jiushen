@@ -1,0 +1,2 @@
+const e={ProvideKey:Symbol("management"),Tab:{Info:"management-info",Member:"management-member",Pending:"management-pending",Reject:"management-reject",AdjustmentRecord:"management-adjustmentRecord",MemberBillChange:"member-bill-change"}},a={ProvideKey:Symbol("bill"),Tab:{RechargeList:"bill-recharge-list",Management:"bill-management",WithdrawList:"bill-withdraw-list",ChangeList:"bill-change-list"}};export{a as B,e as M};
+//# sourceMappingURL=tabs.C8gMd3cQ.js.map

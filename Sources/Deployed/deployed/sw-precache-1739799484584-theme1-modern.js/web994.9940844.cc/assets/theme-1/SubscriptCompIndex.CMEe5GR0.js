@@ -1,0 +1,2 @@
+import{I as c,eM as e}from"./main.C8q1iJMV.js";import{l as t,p as s}from"../vendors/vendor-@vue.DNlpgob2.js";const m="_subscript_pd42x_17",r="_bg_pd42x_27",n="_gou_pd42x_36",o={subscript:m,bg:r,gou:n},[p]=e("subscriptComp"),a=t({name:p,setup(){return()=>s("p",{class:[o.subscript,"subscript"]},[s(c,{class:[o.gou,"gou"],src:"/lobby_asset/common/web/common/comm_icon_gou.svg"},null),s(c,{class:[o.bg,"bg"],src:"/lobby_asset/common/web/common/comm_img_corner.svg"},null)])}});export{a as S};
+//# sourceMappingURL=SubscriptCompIndex.CMEe5GR0.js.map
